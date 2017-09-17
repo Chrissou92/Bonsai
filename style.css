@@ -1,0 +1,270 @@
+.bandeauViolet {
+  background-image: url(images/payments-banner-graphic.png);
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+body {
+  margin: 0 0 0 0;
+  font-family: 'Arimo', sans-serif;
+}
+
+header {
+  color: white;
+  display: flex;
+}
+
+.logo {
+  position: absolute;
+  margin-right: 5px;
+}
+
+.logo img {
+  width: 30%;
+  margin-top: 10px;
+}
+
+.titre {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  position: absolute;
+  right: 10px;
+  font-size: 20px;
+}
+
+li {
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.texteCentral {
+  margin: auto;
+  padding-top: 250px;
+  padding-top: 250px;
+  color: white;
+  text-align: center;
+  top: 80px;
+}
+
+.texteCentral h1 {
+  font-weight: bold;
+}
+
+.texteCentral p {
+  font-size: 25px;
+}
+
+.btn-create {
+  background-color: white;
+  color: #c5a9f2;
+  border-color: white;
+  padding: 10px 40px!important;
+}
+
+.fa-comments-o {
+  font-size: 50px;
+  color: white;
+  border: 5px solid #9d749f;
+  border-radius: 50%;
+  background-color: #9d749f;
+}
+
+.bulle {
+  padding-top: 170px;
+  margin-right: 20px;
+}
+
+.generalIcon {
+  height: 400px;
+  margin-top: 10px;
+}
+
+.calendar {
+  padding-top: 50px;
+  border-right: 1px solid #7a7780;
+}
+
+.calendar h2 {
+  margin-top: 30px;
+}
+
+.calendar p {
+  margin-top: 20px;
+}
+
+.mail {
+  padding-top: 50px;
+  border-right: 1px solid #7a7780;
+}
+
+.mail h2 {
+  margin-top: 30px;
+}
+
+.mail p {
+  margin-top: 20px;
+}
+
+.cartes {
+  padding-top: 50px;
+}
+
+.cartes h2 {
+  margin-top: 30px;
+}
+
+.cartes p {
+  margin-top: 20px;
+}
+/*bloc dollard*/
+.fondGrisClair {
+  background-color: #ebe8ed;
+  text-align: center;
+  padding-top: 40px;
+}
+.texteGris {
+  font-size: 20px;
+  color:#615f62;
+  margin-bottom: 40px;
+}
+.dollard {
+  color: #a36baf;
+    font-size: 60px;
+    margin-top: -11px;
+}
+.textDollard {
+  font-size: 30px;
+  color: #615f62;
+}
+.textFondGris{
+  margin-bottom: 0px;
+}
+.chiffreFondGris {
+  font-size: 10px;
+  margin-bottom: 50px;
+}
+/*bloc fond noir*/
+.bandeauNoir {
+  height: 100px;
+  background-color: #333332;
+}
+.bandeauNoir p {
+  color: white;
+  font-size: 30px;
+  padding-top: 20px;
+}
+.gauche {
+  background-color: #16dad4;
+
+}
+.gauche img {
+  width: 70%;
+  margin-top: 60px;
+}
+.droiteText {
+  padding-top: 150px;
+  padding-left: 190px;
+  color: #636363;
+}
+.droiteText p {
+  padding-top: 10px;
+  font-size: 17px;
+  color: #9fa29f;
+}
+
+/*block 2 texte a gauche*/
+.droite {
+  background-color: rgb(104, 37, 117);
+height: 500px;
+}
+.gaucheText {
+  padding-top: 130px;
+  padding-left: 190px;
+  color: #636363;
+}
+.gaucheText p {
+  padding-top: 10px;
+  font-size: 17px;
+  color: #9fa29f;
+}
+.droite img {
+  width: 60%;
+  margin-top: 126px;
+
+}
+/*bloc 3 texte a droite parametre du bloc*/
+
+.gaucheBloc3 {
+  background-color: #16dad4;
+
+}
+.gaucheBloc3 img {
+  width: 70%;
+  margin-top: 60px;
+}
+
+.droiteTextBloc3 {
+  padding-top: 150px;
+  padding-left: 190px;
+  color: #636363;
+}
+.droiteTextBloc3 p {
+  padding-top: 10px;
+  font-size: 17px;
+  color: #9fa29f;
+}
+/*FIN bloc 3*/
+
+
+/*bloc 4 fond blanc*/
+.blocBlanc {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.blocBlanc p {
+  font-size: 30px;
+}
+.btn-account {
+  background-color: #50935e;
+  border-color:  #50935e;
+}
+/*Fin bloc 4 fond blanc*/
+
+/*Bloc 5 fond noir*/
+
+.fondNoir {
+  background-color: #272827;
+  height: 500px;
+  padding-top: 130px;
+  color:white;
+}
+.fondNoir ul {
+  list-style-type: none;
+  padding-left:0px;
+}
+
+.texteFondNoir {
+  padding-top: 40px;
+  font-size: 12px;
+}
+
+.logoBleu {
+  padding-top: 42px;
+}
+/*FIN block 5 fond noir*/
