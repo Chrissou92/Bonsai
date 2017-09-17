@@ -190,7 +190,6 @@ a {
 /*block 2 texte a gauche*/
 .droite {
   background-color: rgb(104, 37, 117);
-height: 500px;
 }
 .gaucheText {
   padding-top: 130px;
@@ -203,8 +202,8 @@ height: 500px;
   color: #9fa29f;
 }
 .droite img {
-  width: 60%;
-  margin-top: 126px;
+  width: 70%;
+  margin-top: 60px;
 
 }
 /*bloc 3 texte a droite parametre du bloc*/
